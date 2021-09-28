@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PepoMarko
+- 👋 Hi, I’m @PepoMarko (Ing. Peter Marko), I have studied at faculty of information technology at Brno University of Technology
 - 👀 I’m interested in web development, TypeScript, React, C#, sql, machine learning
 - 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on ...
